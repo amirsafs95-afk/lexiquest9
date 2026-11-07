@@ -1,0 +1,13 @@
+{
+  "name": "LexiQuest 9",
+  "short_name": "LexiQuest 9",
+  "description": "پلتفرم آفلاین یادگیری زبان انگلیسی پایه نهم",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6ff",
+  "theme_color": "#101a34",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
