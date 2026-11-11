@@ -1,6 +1,6 @@
-const CACHE_NAME = 'lexiquest9-static-v1';
+const CACHE_NAME = 'lexiquest9-static-v2';
 const CORE_FILES = [
-  './', './index.html', './styles.css', './static.css', './static-app.js',
+  './', './index.html', './styles.css', './static.css', './fantasy.css', './static-app.js',
   './static-data.json', './manifest.webmanifest', './icon.svg'
 ];
 self.addEventListener('install', event => {
