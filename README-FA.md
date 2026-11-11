@@ -1,6 +1,6 @@
 # LexiQuest 9 — نسخهٔ استاتیک رایگان
 
-این پوشه نسخه‌ای مستقل از LexiQuest 9 است که برای انتشار رایگان روی **GitHub Pages** آماده شده است. این نسخه به Node.js، SQLite، سرور، API خصوصی یا فایل `.env` نیاز ندارد.
+این پوشه نسخه‌ای مستقل از LexiQuest 9 است که برای انتشار رایگان روی **GitHub Pages** آماده شده است. ظاهر آن در لایهٔ `fantasy.css` با تم فانتزی و بازی‌محور بازطراحی شده، اما متن‌ها، داده‌های آموزشی و منطق برنامه حفظ شده‌اند. این نسخه به Node.js، SQLite، سرور، API خصوصی یا فایل `.env` نیاز ندارد.
 
 ## اجرای محلی
 
@@ -38,6 +38,7 @@ node .\tests\static-smoke-test.cjs
 - `static-data.json`
 - `styles.css`
 - `static.css`
+- `fantasy.css`
 - `sw.js`
 - `manifest.webmanifest`
 - `icon.svg`
